@@ -26,6 +26,7 @@ markers:
   - {type: line-break, offset: 11, content: '', id: KR4e0056_WYG_005-1a04}
   - {type: indent, offset: 11, content: 　, id: KR4e0056_krp_005-bkkind5}
   - {type: punctuation, offset: 13, content: (, id: KR4e0056_krp_005-bkkpn1}
+  - {type: voice, offset: 13, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 15, content: /, id: KR4e0056_krp_005-bkkpn2}
   - {type: punctuation, offset: 15, content: ), id: KR4e0056_krp_005-bkkpn3}
   - {type: 'kr:newline', offset: 15, content: '
@@ -349,6 +350,7 @@ markers:
   - {type: line-break, offset: 1053, content: '', id: KR4e0056_WYG_005-4b07}
   - {type: indent, offset: 1053, content: 　　, id: KR4e0056_krp_005-bkkind15}
   - {type: punctuation, offset: 1061, content: (, id: KR4e0056_krp_005-bkkpn4}
+  - {type: voice, offset: 1061, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1063, content: /, id: KR4e0056_krp_005-bkkpn5}
   - {type: punctuation, offset: 1063, content: ), id: KR4e0056_krp_005-bkkpn6}
   - {type: 'kr:newline', offset: 1063, content: '
@@ -392,6 +394,7 @@ markers:
   - {type: line-break, offset: 1175, content: '', id: KR4e0056_WYG_005-5a06}
   - {type: indent, offset: 1175, content: 　　, id: KR4e0056_krp_005-bkkind16}
   - {type: punctuation, offset: 1179, content: (, id: KR4e0056_krp_005-bkkpn7}
+  - {type: voice, offset: 1179, length: 5, name: note, id: n3}
   - {type: substitution, offset: 1183, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20630}}
   - {type: punctuation, offset: 1184, content: /, id: KR4e0056_krp_005-bkkpn8}
   - {type: punctuation, offset: 1184, content: ), id: KR4e0056_krp_005-bkkpn9}
@@ -1102,4 +1105,4 @@ markers:
 
       ', id: KR4e0056_krp_005-bkkkrnewl215}
   back: []
-hash: sha256:6f6aa1a8e196e8aadea1bd133829780d75cfad1b9cf85f174b08b41c87c5cb32
+hash: sha256:e8b5537e9d3ac9984aba6f2d4a1140242ca0f60257211dbf880291db40da302b
